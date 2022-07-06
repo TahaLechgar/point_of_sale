@@ -14,9 +14,9 @@ This project consists of creating a multi-platform, multi-use point-of-sale appl
 - retail businesses.
 
 ## Tech stack :
-** Ionic **
-** Angular **
-** JavaScript **
-** SASS **
-** TailwindCSS **
-** SQLite **
+- **Ionic**
+- **Angular**
+- **JavaScript**
+- **SASS**
+- **TailwindCSS**
+- **SQLite**
